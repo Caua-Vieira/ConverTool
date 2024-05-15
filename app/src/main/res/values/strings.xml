@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ConversorDeMoedas</string>
+
+    <string name="selecione_moeda_origem">Selecione a moeda de origem</string>
+    <string name="selecione_moeda_destino">Selecione a moeda de destino</string>
+</resources>
