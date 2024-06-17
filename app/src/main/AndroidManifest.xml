@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.ConversorDeMoedas"
         tools:targetApi="31">
+        <activity android:name=".ConverterActivity"></activity>
+        <activity android:name=".ConverterTemperaturaActivity" android:exported="true" />
+        <activity android:name=".ConverterUnidadesActivity" android:exported="true" />
         <activity
             android:name=".MainActivity"
             android:exported="true">

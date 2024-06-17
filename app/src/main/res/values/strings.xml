@@ -3,4 +3,6 @@
 
     <string name="selecione_moeda_origem">Selecione a moeda de origem</string>
     <string name="selecione_moeda_destino">Selecione a moeda de destino</string>
+    <string name="selecione_temp_destino">Selecione a conversão de temperatura</string>
+    <string name="selecione_unidade_destino">Selecione a conversão de unidade</string>
 </resources>

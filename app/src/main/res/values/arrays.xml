@@ -6,4 +6,18 @@
         <item>Euro (EUR)</item>
         <item>Libra (GBP)</item>
     </string-array>
+
+    <string-array name="temperaturas">
+        <item>Celsius para Fahrenheit</item>
+        <item>Fahrenheit para Celsius</item>
+        <item>Celsius para Kelvin</item>
+        <item>Kelvin para Celsius</item>
+    </string-array>
+
+    <string-array name="unidades">
+        <item>Quilômetros para Milhas</item>
+        <item>Milhas para Quilômetros</item>
+        <item>Metros para Pés</item>
+        <item>Pés para Metros</item>
+    </string-array>
 </resources>
